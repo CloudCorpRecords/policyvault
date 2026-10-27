@@ -1,0 +1,1 @@
+{"allowedContracts":{"api-market.testnet":["pay_for_compute"]},"allowedRecipients":["researcher.testnet","teammate.testnet"],"approvalThresholdNear":"1","dailyCapNear":"4","perTxCapNear":"2"}

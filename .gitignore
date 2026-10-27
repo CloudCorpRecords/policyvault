@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+# Secrets — never commit keys or env files (NEAR keys live in env vars only)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*seed-phrase*
+*secret*
+
+# Runtime audit logs produced by send.ts / local runs
+*.jsonl
